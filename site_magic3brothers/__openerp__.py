@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # author: 63720750@qq.com
 {
-    'name': 'Magic3brothers Theme',
+    'name': 'Carousel-thumbnail theme',
     'description': 'This module provides feature for carousel-thumbnail-indicators theme.',
     'summary': 'This module provides feature for carousel-thumbnail-indicators theme.',
     'category': 'Theme',
