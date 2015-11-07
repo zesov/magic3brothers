@@ -2,8 +2,8 @@
 # author: 63720750@qq.com
 {
     'name': 'Magic3brothers Theme',
-    'description': 'This module provides feature for changing layout of theme.',
-    'summary': 'This module provides feature for changing layout of theme.',
+    'description': 'This module provides feature for carousel-thumbnail-indicators theme.',
+    'summary': 'This module provides feature for carousel-thumbnail-indicators theme.',
     'category': 'Theme',
     'version': '1.0',
     'website': 'http://www.yunaio.com',
