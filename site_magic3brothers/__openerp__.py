@@ -16,7 +16,7 @@
             'static/description/splash_screen.png',
     ],
     'application': True,
-    'price': 9.99,
-    'currency': 'USD',
+    # 'price': 9.99,
+    # 'currency': 'USD',
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
