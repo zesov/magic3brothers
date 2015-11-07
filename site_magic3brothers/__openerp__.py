@@ -13,7 +13,7 @@
         'views/theme.xml',
     ],
     'images':[
-            'static/description/main_screenshot.png',
+            'static/description/main_screenshot.jpg',
     ],
     'application': True,
     # 'price': 9.99,
