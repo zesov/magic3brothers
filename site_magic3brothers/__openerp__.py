@@ -16,7 +16,9 @@
             'static/description/main_screenshot.jpg',
     ],
     'application': True,
-    # 'price': 9.99,
-    # 'currency': 'USD',
+    'live_test_url': 'http://demo.aioyun.com',
+    'price': 9.99,
+    'currency': 'EUR',
+
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
