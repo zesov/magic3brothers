@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- vim:fdl=1:
+-->    
+<openerp>
+<data>
+<template id="web_assets_backend" name="aioyun assets" inherit_id="web.assets_backend">
+    <xpath expr="." position="inside">
+		<link href="/scrollable_tree_view/static/src/css/base-fix.css" rel="stylesheet"/>			
+	</xpath>
+</template>
+</data>  
+</openerp>
