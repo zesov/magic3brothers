@@ -15,9 +15,8 @@
     </template>
 
     <template id="footer_default" name="Automatic Footer" inherit_id="website.footer_default">
-      <xpath expr="//div[@class='container hidden-print']" position="replace">
-        <div class="container hidden-print"></div>
-        <div id="info"><ul></ul></div>
+      <xpath expr="//div[@id='footer']" position="attributes">
+        <attribute name="class">hidden</attribute>
       </xpath>
     </template>
     
@@ -324,7 +323,7 @@
 
 
 <template id="footer_default" name="Automatic Footer" inherit_id="website.footer_default">
-  <xpath expr="//div[@class='container hidden-print']" position="replace">    
+  <xpath expr="//div[@id='footer']" position="after">     
     <div class="container hidden-print">
       <div class="row mt16">
           <div class="col-md-2"><img width="120px;" src="/site_magic3brothers/static/src/img/logo2.png"/></div>
