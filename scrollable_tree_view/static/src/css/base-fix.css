@@ -1,5 +1,6 @@
 .openerp .oe_form_field_one2many, .openerp .oe_form_field_many2many {
   overflow-y: hidden;
+  position:relative;
 }
 .openerp .oe_list_content td, .openerp .oe_list_content th {
   white-space: nowrap;
