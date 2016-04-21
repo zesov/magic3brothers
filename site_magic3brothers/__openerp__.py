@@ -1,24 +1,14 @@
-# -*- coding: utf-8 -*-
-# author: 63720750@qq.com
 {
-    'name': 'Carousel-thumbnail Theme',
-    'description': 'This module provides feature for carousel-thumbnail-indicators theme.',
-    'summary': 'This module provides feature for carousel-thumbnail-indicators theme.',
+    'name': 'Magic3brothers Theme',
+    'summary': 'Support for Customize themes in 9.0',
+    'description': 'This theme module is support for customize themes in website 9.0',
     'category': 'Theme',
+    'sequence': 900,
     'version': '1.0',
-    'website': 'http://www.yunaio.com',
-    'author': 'Jodoo',
-    'depends': ['website','website_blog'],
+    'depends': ['website','theme_default'],
     'data': [
         'views/theme.xml',
     ],
-    'images':[
-            'static/description/main_screenshot.jpg',
-    ],
-    'application': True,
-    'live_test_url': 'http://demo.aioyun.com',
-    'price': 9.99,
-    'currency': 'EUR',
-
+    'images': ['static/description/icon.png'],
+    'application': False,
 }
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
