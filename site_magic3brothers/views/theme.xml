@@ -11,14 +11,13 @@
               <td class=" text-center" width="50%">
                   <label class=" center-block">
                       <div class="text-center" style="background-image: url(/theme_default/static/src/img/theme/layout-full.gif); background-size: 100%; line-height: 40px;">Magic3theme</div>
-                    <input name="theme" type="radio" data-xmlid="site_magic3brothers.theme_youngtree"/>                      
-                    <input name="theme" type="radio" data-xmlid="site_magic3brothers.homepage_inherit"/>
+                    <input name="theme2" type="radio" data-xmlid="site_magic3brothers.theme_youngtree"/>
                   </label>
               </td>
               <td class=" text-center" >
                   <label class=" center-block">
                      <div class="text-center" style="background-image: url(/theme_default/static/src/img/theme/layout-boxed.gif); background-size: 100%; line-height: 40px;">default</div>
-                    <input name="theme" type="radio" data-xmlid=""/>
+                    <input name="theme2" type="radio" data-xmlid=""/>
                   </label>
               </td>
           </tr>
@@ -31,7 +30,7 @@
      All Default Themes
 -->
 
-    <template id="site_magic3brothers.theme_youngtree" name="Youngtree" inherit_id="website.assets_frontend" active="False" customize_show="False">
+    <template id="site_magic3brothers.theme_youngtree" name="Youngtree" inherit_id="website.assets_frontend" active="True" customize_show="False">
         <xpath expr="." position="inside">
             <link rel="stylesheet" type="text/less" href='/site_magic3brothers/static/src/css/default-fix.css' t-ignore="true"/>
         </xpath>
