@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
-# author: baich.info@gmail.com
+# author: 63720750@qq.com
 {
     'name': 'Tree view scrollable',
     'description': 'This module provides feature for Odoo tree view horizontal scrollable.',
     'summary': 'This module provides feature for Odoo tree view horizontal scrollable.',
     'category': 'Tools',
     'version': '1.0',
-    'website': 'http://www.yunaio.com',
+    'website': 'http://appnxt.com',
     'author': 'Jodoo',
     'depends': ['base'],
     'data': [
