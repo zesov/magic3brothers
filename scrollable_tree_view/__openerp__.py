@@ -6,8 +6,8 @@
     'summary': 'This module provides feature for Odoo tree view horizontal scrollable.',
     'category': 'Tools',
     'version': '1.0',
-    'website': 'http://www.yunaio.com',
-    'author': 'Jodoo',
+    'website': 'http://appnxt.com',
+    'author': 'appnext',
     'depends': ['base'],
     'data': [
         'views/webclient_templates.xml',
