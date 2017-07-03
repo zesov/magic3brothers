@@ -6,7 +6,7 @@
     'summary': 'This module provides feature for carousel-thumbnail-indicators theme.',
     'category': 'Theme',
     'version': '1.0',
-    'website': 'http://www.yunaio.com',
+    'website': 'http://appnxt.com',
     'author': 'Jodoo',
     'depends': ['website','theme_default'],
     'data': [
@@ -16,7 +16,7 @@
             'static/description/main_screenshot.jpg',
     ],
     'application': True,
-    'live_test_url': 'http://demo.aioyun.com',
+    'live_test_url': 'http://demo.v8.appnxt.com/',
     # 'price': 9.99,
     # 'currency': 'EUR',
 }
