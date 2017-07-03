@@ -16,7 +16,7 @@
             'static/description/main_screenshot.jpg',
     ],
     'application': True,
-    'live_test_url': 'http://demo.aioyun.com',
+    'live_test_url': 'http://demo.v8.appnxt.com',
     # 'price': 9.99,
     # 'currency': 'EUR',
 
