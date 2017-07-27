@@ -6,7 +6,7 @@
     'summary': 'This module provides feature for carousel-thumbnail-indicators theme.',
     'category': 'Theme',
     'version': '1.0',
-    'website': 'http://www.yunaio.com',
+    'website': 'http://www.appnxt.com',
     'author': 'appnxt.com',
     'depends': ['website','theme_default'],
     'data': [
