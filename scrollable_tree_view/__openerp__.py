@@ -7,7 +7,7 @@
     'category': 'Tools',
     'version': '1.0',
     'website': 'http://appnxt.com',
-    'author': 'Jodoo',
+    'author': 'appnxt.com',
     'depends': ['base'],
     'data': [
         'views/webclient_templates.xml',
