@@ -7,7 +7,7 @@
     'category': 'Theme',
     'version': '1.0',
     'website': 'http://appnxt.com',
-    'author': 'Jodoo',
+    'author': 'appnxt.com',
     'depends': ['website','theme_default'],
     'data': [
         'views/theme.xml',
