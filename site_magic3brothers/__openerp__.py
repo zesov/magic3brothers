@@ -7,7 +7,7 @@
     'category': 'Theme',
     'version': '1.0',
     'website': 'http://www.yunaio.com',
-    'author': 'Jodoo',
+    'author': 'appnxt.com',
     'depends': ['website','theme_default'],
     'data': [
         'views/theme.xml',
